@@ -69,9 +69,7 @@ while True:
     print("2. View Expenses")
     print("3. Visualize Expenses")
     print("4. Exit")
-
     choice = input("Enter your choice: ")
-
     if choice == "1":
         add_expense()
     elif choice == "2":
@@ -81,8 +79,7 @@ while True:
     elif choice == "4":
         break
     else:
-        print("Exiting... Goodbye!")
-'''
+        print("Exiting... Goodbye!")'''
 
 
 
